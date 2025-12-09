@@ -66,7 +66,7 @@
 <h2 align="center">👨‍💻 More About Me 👨‍💻</h2>
 <br>
 <div align="center">
-  <p>🎓 Currently pursuing B.Tech in Information Technology, 3rd Year, at PICT, Pune</p>
+  <p>🎓 Currently pursuing B.E in Information Technology, 4rd Year, at PICT, Pune</p>
   <p>📱 Web Developer passionate about building impactful solutions</p>
   <p>☁️ Enthusiast in Cloud & DevOps</p>
 </div>
