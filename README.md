@@ -29,7 +29,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,aws,java" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,postgres" />
 </div>
+
 
 <br/>
 <hr/>
